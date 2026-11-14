@@ -10,7 +10,7 @@ Open to remote full-stack and backend roles (US/EU time zones) or hybrid in Belg
 |---|---|---|
 | **[Trismeria](https://trismeria.com)** · Jul 2026 – now, part-time | AI game-master platform for solo D&D 5e. I work on the web client (campaign and character UI, item catalog, localization), the rules plugin, tests and alerting. | Next.js, React, TypeScript, FastAPI, Docker, GitHub Actions |
 | **GLOBALBUS** · Sep – Oct 2026, contract | Driver payroll service for a bus operator, built alone and still in production: pay from dispatch workbooks, Excel/PDF exports, two-way Google Sheets sync, dispute queue, 200+ tests. | Python, MongoDB, vanilla JS, Docker, systemd |
-| **ASIPAI** · Feb – Aug 2026 | Fashion-tech platform used by 42 stylists: 32,507 products, 77,207 outfits, 154,146 pairwise selections. React admin, FastAPI endpoints, catalog parsers. | React, FastAPI, MongoDB, MinIO, Qdrant, Playwright |
+| **ASIPAI** · Feb – Aug 2026 | Fashion-tech startup, now on hold. Platform used by 42 stylists: 32,507 products, 77,207 outfits, 154,146 pairwise selections. React admin, FastAPI endpoints, catalog parsers. | React, FastAPI, MongoDB, MinIO, Qdrant, Playwright |
 | **Planetra / ODEON theatre** · Nov 2025 – Jul 2026 | Reporting portal with 8 dashboards for managers and shareholders, Radario → Bitrix24/Google Sheets sync every 15 minutes (15,000+ records), guest-service bot and QR menu, table-booking widget. Public part: [graphics-visible](https://github.com/Alkis12/graphics-visible). | Node.js/Express, Python ETL, PostgreSQL, DataLens, Astro, FastAPI |
 
 ## Products
